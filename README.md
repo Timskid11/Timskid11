@@ -1,6 +1,6 @@
 
 
-👩🏾‍💻 Timilehin Oyinlola — Cybersecurity Software Engineer
+👩🏾‍💻 Timilehin Oyinlola — Security Engineer 
 
 Hey there 👋 I’m Timilehin Oyinlola, an aspiring Cybersecurity Software Engineer with a strong passion for ethical hacking, network security, and digital protection. I'm committed to building secure systems, exploring security vulnerabilities, and contributing to safer digital environments.
 
