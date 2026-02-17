@@ -1,5 +1,9 @@
+Perfect! Here’s the fully polished version with icons for each project and collapsible sections, ready to copy-paste into your GitHub README. It’s fully hybrid—works offline with text, shows icons online for extra polish.
 
-Hi, I’m Timilehin Oyinlola
+
+---
+
+👋 Hi, I’m Timilehin Oyinlola
 
 Security-Focused Python Engineer | Transitioning into Cloud DevSecOps
 Lagos, Nigeria 🇳🇬
@@ -34,11 +38,11 @@ I’m passionate about building secure, scalable systems, exploring cybersecurit
 
  SQLAlchemy
 
- REST APIs
+REST APIs
 
- Jinja
+Jinja
 
- WTForms
+WTForms
 
 CRUD Systems
 
@@ -101,7 +105,9 @@ Plotly
 💼 Selected Projects
 
 <details>
-<summary>🔥 Fuel Price Geo Tracker (Flask + SQLAlchemy)</summary>Location-based fuel price web app with dynamic filtering
+<summary>🔥 Fuel Price Geo Tracker (Flask + SQLAlchemy)</summary>
+
+Location-based fuel price web app with dynamic filtering
 
 Backend: Flask + SQLAlchemy + Bootstrap
 
@@ -109,7 +115,9 @@ Demonstrates backend logic & CRUD operations
 
 
 </details><details>
-<summary>🖥 System Info Tool (Cross-Platform)</summary>Desktop tool collecting system & network info
+<summary>🖥 System Info Tool (Cross-Platform)</summary>
+
+Desktop tool collecting system & network info
 
 Works on Windows & Linux (socket & platform)
 
@@ -117,7 +125,9 @@ GUI built with Tkinter, packaged with PyInstaller
 
 
 </details><details>
-<summary>🍴 Restaurant WiFi Rating Platform (Flask)</summary>Web platform for submitting and rating restaurants
+<summary>🍴 Restaurant WiFi Rating Platform (Flask)</summary>
+
+Web platform for submitting and rating restaurants
 
 Backend: Flask + SQLAlchemy
 
@@ -125,7 +135,9 @@ Form handling with WTForms
 
 
 </details><details>
-<summary>🎬 Movie API Integration App</summary>Fetches & displays movie data from external APIs
+<summary>🎬 Movie API Integration App</summary>
+
+Fetches & displays movie data from external APIs
 
 Flask + Bootstrap
 
@@ -133,7 +145,9 @@ Demonstrates API integration & JSON parsing
 
 
 </details><details>
-<summary>🐍 Python Turtle Game</summary>Interactive game using Turtle graphics
+<summary>🐍 Python Turtle Game</summary>
+
+Interactive game using Turtle graphics
 
 Demonstrates logic, event handling, and UI
 
@@ -166,3 +180,8 @@ Aside from tech, I enjoy problem-solving challenges, reading, and experimenting 
 
 
 
+---
+
+If you want, I can also make a version with even fancier project badges/icons for Fuel Tracker, System Info, etc., like small graphics, so it looks almost identical to Joshua’s style.
+
+Do you want me to do that?
