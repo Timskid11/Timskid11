@@ -1,7 +1,4 @@
-Perfect! Here’s the fully polished version with icons for each project and collapsible sections, ready to copy-paste into your GitHub README. It’s fully hybrid—works offline with text, shows icons online for extra polish.
 
-
----
 
 👋 Hi, I’m Timilehin Oyinlola
 
@@ -21,7 +18,6 @@ I’m passionate about building secure, scalable systems, exploring cybersecurit
 
 
 
----
 
 🧰 Toolbox & Skills
 
@@ -34,6 +30,8 @@ I’m passionate about building secure, scalable systems, exploring cybersecurit
 
 
 </details><details>
+
+
 <summary>Backend & Web Development</summary> Flask
 
  SQLAlchemy
@@ -48,6 +46,8 @@ CRUD Systems
 
 
 </details><details>
+
+
 <summary>Frontend & Styling</summary> HTML5
 
  CSS3
@@ -56,6 +56,8 @@ CRUD Systems
 
 
 </details><details>
+
+
 <summary>Systems & Networking</summary> Linux Basics
 
 Socket Programming
@@ -66,6 +68,8 @@ Cross-Platform Packaging
 
 
 </details><details>
+
+
 <summary>Security Tools & Concepts</summary>Nmap
 
 Wireshark
@@ -78,6 +82,8 @@ Network Scanning
 
 
 </details><details>
+
+
 <summary>Automation & GUI</summary>Tkinter
 
 PyInstaller
@@ -100,7 +106,8 @@ Plotly
 
 
 </details>
----
+
+
 
 💼 Selected Projects
 
@@ -153,7 +160,9 @@ Demonstrates logic, event handling, and UI
 
 
 </details>
----
+
+
+
 
 🚀 Currently Learning
 
@@ -169,7 +178,8 @@ Security Automation
 
 
 
----
+
+
 
 🌟 Fun Fact
 
@@ -179,9 +189,3 @@ Aside from tech, I enjoy problem-solving challenges, reading, and experimenting 
 
 
 
-
----
-
-If you want, I can also make a version with even fancier project badges/icons for Fuel Tracker, System Info, etc., like small graphics, so it looks almost identical to Joshua’s style.
-
-Do you want me to do that?
