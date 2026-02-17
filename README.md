@@ -1,85 +1,157 @@
+Hi, I’m Timilehin Oyinlola
+
+Security-Focused Python Engineer | Transitioning into Cloud DevSecOps
+Lagos, Nigeria 🇳🇬
+
+I’m Timilehin Oyinlola, a Security-Focused Python Engineer transitioning into Cloud DevSecOps, based in Lagos, Nigeria. I build tools, web applications, and automation scripts that combine Python, Flask, and system-level programming to solve real-world problems.
+
+I’ve built projects ranging from location-based fuel price trackers, restaurant rating platforms, system information tools, to movie API apps and Python games using Turtle graphics. My experience spans backend development, databases, GUI automation, and security-focused Python tools.
+
+Currently, I’m expanding into Linux hardening, Docker containerization, AWS cloud services, CI/CD pipelines, and security automation, aiming to combine software development with secure, automated infrastructure.
+
+I’m passionate about building secure, scalable systems, exploring cybersecurity, and contributing to projects that improve digital safety. I enjoy learning by doing, documenting my projects, and continuously leveling up my skills in Python, DevSecOps, and cloud technologies.
+
+> 🔐 Building secure code. Automating systems. One project at a time.
 
 
-👩🏾‍💻 Timilehin Oyinlola — Security Engineer 
 
-Hey there 👋 I’m Timilehin Oyinlola, an aspiring Cybersecurity  Engineer with a strong passion for ethical hacking, network security, and digital protection. I'm committed to building secure systems, exploring security vulnerabilities, and contributing to safer digital environments.
+
+
+
+🧰 Toolbox & Skills
+
+Programming Languages
+
+ Python • Bash (Learning) • C (Basic)
+
+Python [██████████] 90%
+Bash   [█████-----] 50%
+C      [██--------] 20%
+
+Backend & Web Development
+
+ Flask • SQLAlchemy • REST APIs • Jinja • WTForms • CRUD Systems
+
+Flask      [█████████-] 80%
+SQLAlchemy [████████--] 70%
+REST APIs  [███████---] 60%
+
+Frontend & Styling
+
+ HTML5 • CSS3 • Bootstrap
+
+HTML5      [██████████] 90%
+CSS3       [███████---] 60%
+Bootstrap  [████████--] 70%
+
+Systems & Networking
+
+ Linux Basics • Socket Programming • OS Detection • Cross-Platform Packaging
+
+Linux        [█████-----] 50%
+Socket Prog. [██████----] 60%
+OS Detection [███████---] 70%
+
+Security Tools & Concepts
+
+ Nmap • Wireshark • Burp Suite • Kali Linux • Network Scanning
+
+Nmap         [███████---] 70%
+Wireshark    [██████----] 60%
+Burp Suite   [█████-----] 50%
+
+Automation & GUI
+
+ Tkinter • PyInstaller • Requests • Selenium • BeautifulSoup
+
+Tkinter       [████████--] 70%
+PyInstaller   [██████----] 60%
+Selenium      [█████-----] 50%
+BeautifulSoup [██████----] 60%
+
+Data & Analysis
+
+ Pandas • NumPy • Matplotlib • Plotly
+
+Pandas    [███████---] 70%
+NumPy     [██████----] 60%
+Matplotlib[█████-----] 50%
+Plotly    [█████-----] 50%
 
 
 ---
 
-🧠 About Me
+💼 Selected Projects
 
-🔐 Passionate about ethical hacking, cyber hygiene, secure coding, and network defense.
+<details>
+<summary>🔥 Fuel Price Geo Tracker (Flask + SQLAlchemy)</summary>Location-based fuel price web application with dynamic filtering
 
-🖥️ Actively developing skills in Linux fundamentals, network security, and offensive security using tools like Kali Linux and Cisco Packet Tracer.
+Backend: Flask + SQLAlchemy + Bootstrap
 
-⚙️ Working on hands-on labs, certification prep, and building a strong foundation in real-world cybersecurity practices.
-
-🌍 Participating in cybersecurity communities while maintaining a growing GitHub portfolio to document my learning journey and contributions.
-
+Demonstrates backend logic & CRUD operations
 
 
----
+</details><details>
+<summary>🖥 System Info Tool (Cross-Platform)</summary>Desktop tool that collects system & network info
 
-💼 What I’m Currently Working On
+Works on Windows & Linux using socket & platform
 
-🧪 Building network security labs and simulating attacks and defenses using open-source tools.
+GUI built with Tkinter
 
-🐧 Deepening my understanding of Linux security and hardening techniques.
-
-📁 Creating and sharing notes, writeups, and mini-projects focused on cybersecurity fundamentals.
-
-📜 Preparing for industry certifications like CompTIA Security+, CCNA, and OSCP (long-term goal).
+Packaged with PyInstaller
 
 
+</details><details>
+<summary>🍴 Restaurant WiFi Rating Platform (Flask)</summary>Web platform for submitting and rating restaurants
 
----
+Backend: Flask + SQLAlchemy
 
-🤝 Let’s Collaborate
-
-✅ I'm open to beginner-friendly cybersecurity projects, open-source contributions, and building learning resources.
-
-💬 Feel free to ask me about:
-
-Ethical hacking
-
-Networking fundamentals
-
-Cybersecurity learning paths
-
-Tools like Nmap, Wireshark, Burp Suite, and more
+Form handling with WTForms
 
 
+</details><details>
+<summary>🎬 Movie API Integration App</summary>Fetches & displays movie data from external APIs
+
+Flask + Bootstrap
+
+Demonstrates API integration & JSON parsing
 
 
----
+</details><details>
+<summary>🐍 Python Turtle Game</summary>Interactive game using Turtle graphics
 
-📚 My Goals
-
-👩🏾‍💻 Transition into a full-fledged Cybersecurity Software Engineer
-
-🏆 Contribute to open-source security tools
-
-📈 Continuously grow my skill set in secure coding, penetration testing, and threat analysis
+Demonstrates logic, event handling, and UI
 
 
-
----
-
-📫 Let's Connect
-
-📍 LinkedIn: timilehin-oyinlola
-
-📧 Email: Anonymous 
+</details>
 
 
----
+🚀 Currently Learning
 
-⚡ Fun Fact
+Linux Hardening & Administration
 
-Aside from tech, I’m a creative writer and an avid reader. My passion for cybersecurity stems from a deep desire to solve problems, protect the digital space, and make an impact through secure software development.
+Docker & Containerization
+
+AWS EC2 & IAM
+
+CI/CD Pipelines (GitHub Actions)
+
+Security Automation
 
 
----
 
-> 🔐 Building secure code. Defending digital spaces. One line at a time.
+
+
+
+🌟 Fun Fact
+
+Aside from tech, I enjoy problem-solving challenges, reading, and experimenting with Python projects.
+
+> 🔐 Building secure code. Automating systems. One project at a time.
+
+
+
+
+
+
+
