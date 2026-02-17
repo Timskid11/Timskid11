@@ -1,90 +1,107 @@
+
 Hi, I’m Timilehin Oyinlola
 
 Security-Focused Python Engineer | Transitioning into Cloud DevSecOps
 Lagos, Nigeria 🇳🇬
 
-I’m Timilehin Oyinlola, a Security-Focused Python Engineer transitioning into Cloud DevSecOps, based in Lagos, Nigeria. I build tools, web applications, and automation scripts that combine Python, Flask, and system-level programming to solve real-world problems.
+I build tools, web applications, and automation scripts that combine Python, Flask, and system-level programming to solve real-world problems.
 
 I’ve built projects ranging from location-based fuel price trackers, restaurant rating platforms, system information tools, to movie API apps and Python games using Turtle graphics. My experience spans backend development, databases, GUI automation, and security-focused Python tools.
 
 Currently, I’m expanding into Linux hardening, Docker containerization, AWS cloud services, CI/CD pipelines, and security automation, aiming to combine software development with secure, automated infrastructure.
 
-I’m passionate about building secure, scalable systems, exploring cybersecurity, and contributing to projects that improve digital safety. I enjoy learning by doing, documenting my projects, and continuously leveling up my skills in Python, DevSecOps, and cloud technologies.
+I’m passionate about building secure, scalable systems, exploring cybersecurity, and contributing to projects that improve digital safety.
 
 > 🔐 Building secure code. Automating systems. One project at a time.
 
 
 
 
-
+---
 
 🧰 Toolbox & Skills
 
-Programming Languages
+<details>
+<summary>Programming Languages</summary> Python
 
- Python • Bash (Learning) • C (Basic)
+ Bash (Learning)
 
-Python [██████████] 90%
-Bash   [█████-----] 50%
-C      [██--------] 20%
-
-Backend & Web Development
-
- Flask • SQLAlchemy • REST APIs • Jinja • WTForms • CRUD Systems
-
-Flask      [█████████-] 80%
-SQLAlchemy [████████--] 70%
-REST APIs  [███████---] 60%
-
-Frontend & Styling
-
- HTML5 • CSS3 • Bootstrap
-
-HTML5      [██████████] 90%
-CSS3       [███████---] 60%
-Bootstrap  [████████--] 70%
-
-Systems & Networking
-
- Linux Basics • Socket Programming • OS Detection • Cross-Platform Packaging
-
-Linux        [█████-----] 50%
-Socket Prog. [██████----] 60%
-OS Detection [███████---] 70%
-
-Security Tools & Concepts
-
- Nmap • Wireshark • Burp Suite • Kali Linux • Network Scanning
-
-Nmap         [███████---] 70%
-Wireshark    [██████----] 60%
-Burp Suite   [█████-----] 50%
-
-Automation & GUI
-
- Tkinter • PyInstaller • Requests • Selenium • BeautifulSoup
-
-Tkinter       [████████--] 70%
-PyInstaller   [██████----] 60%
-Selenium      [█████-----] 50%
-BeautifulSoup [██████----] 60%
-
-Data & Analysis
-
- Pandas • NumPy • Matplotlib • Plotly
-
-Pandas    [███████---] 70%
-NumPy     [██████----] 60%
-Matplotlib[█████-----] 50%
-Plotly    [█████-----] 50%
+ C (Basic)
 
 
+</details><details>
+<summary>Backend & Web Development</summary> Flask
+
+ SQLAlchemy
+
+ REST APIs
+
+ Jinja
+
+ WTForms
+
+CRUD Systems
+
+
+</details><details>
+<summary>Frontend & Styling</summary> HTML5
+
+ CSS3
+
+ Bootstrap
+
+
+</details><details>
+<summary>Systems & Networking</summary> Linux Basics
+
+Socket Programming
+
+OS Detection
+
+Cross-Platform Packaging
+
+
+</details><details>
+<summary>Security Tools & Concepts</summary>Nmap
+
+Wireshark
+
+Burp Suite
+
+Kali Linux
+
+Network Scanning
+
+
+</details><details>
+<summary>Automation & GUI</summary>Tkinter
+
+PyInstaller
+
+Requests
+
+Selenium
+
+BeautifulSoup
+
+
+</details><details>
+<summary>Data & Analysis</summary>Pandas
+
+NumPy
+
+Matplotlib
+
+Plotly
+
+
+</details>
 ---
 
 💼 Selected Projects
 
 <details>
-<summary>🔥 Fuel Price Geo Tracker (Flask + SQLAlchemy)</summary>Location-based fuel price web application with dynamic filtering
+<summary>🔥 Fuel Price Geo Tracker (Flask + SQLAlchemy)</summary>Location-based fuel price web app with dynamic filtering
 
 Backend: Flask + SQLAlchemy + Bootstrap
 
@@ -92,13 +109,11 @@ Demonstrates backend logic & CRUD operations
 
 
 </details><details>
-<summary>🖥 System Info Tool (Cross-Platform)</summary>Desktop tool that collects system & network info
+<summary>🖥 System Info Tool (Cross-Platform)</summary>Desktop tool collecting system & network info
 
-Works on Windows & Linux using socket & platform
+Works on Windows & Linux (socket & platform)
 
-GUI built with Tkinter
-
-Packaged with PyInstaller
+GUI built with Tkinter, packaged with PyInstaller
 
 
 </details><details>
@@ -124,7 +139,7 @@ Demonstrates logic, event handling, and UI
 
 
 </details>
-
+---
 
 🚀 Currently Learning
 
@@ -140,17 +155,13 @@ Security Automation
 
 
 
-
-
+---
 
 🌟 Fun Fact
 
 Aside from tech, I enjoy problem-solving challenges, reading, and experimenting with Python projects.
 
 > 🔐 Building secure code. Automating systems. One project at a time.
-
-
-
 
 
 
