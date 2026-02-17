@@ -10,7 +10,7 @@ Currently, I’m expanding into **Linux hardening, Docker, AWS, CI/CD, and secur
 Let’s collaborate and build secure, scalable, and innovative solutions!  
 
 📫 **Connect with me:**  
-[Email](mailto:timilehinoyinlola3@gmail.com) • [LinkedIn](https://www.linkedin.com/in/timilehin-oyinlola)
+[Email](mailto:timilehinoyinlola3@gmail.com) • [LinkedIn](https://www.linkedin.com/in/timilehin-oyinlola-228296317?)
 
 ---
 
