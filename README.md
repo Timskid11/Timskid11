@@ -1,19 +1,14 @@
 
 
-👋 Hi, I’m Timilehin Oyinlola
+<h1> 👋 Hi, I’m Timilehin Oyinlola!</h1>
 
 Security-Focused Python Engineer | Transitioning into Cloud DevSecOps
 Lagos, Nigeria 🇳🇬
 
-I build tools, web applications, and automation scripts that combine Python, Flask, and system-level programming to solve real-world problems.
 
-I’ve built projects ranging from location-based fuel price trackers, restaurant rating platforms, system information tools, to movie API apps and Python games using Turtle graphics. My experience spans backend development, databases, GUI automation, and security-focused Python tools.
-
-Currently, I’m expanding into Linux hardening, Docker containerization, AWS cloud services, CI/CD pipelines, and security automation, aiming to combine software development with secure, automated infrastructure.
-
-I’m passionate about building secure, scalable systems, exploring cybersecurity, and contributing to projects that improve digital safety.
-
-> 🔐 Building secure code. Automating systems. One project at a time.
+I build tools, web applications, and automation scripts using Python, Flask, and system-level programming to solve real-world problems. My projects include fuel price trackers, restaurant rating platforms, system info tools, movie API apps, and Python games.
+Currently, I’m expanding into Linux hardening, Docker, AWS, CI/CD, and security automation to combine software development with secure, automated infrastructure.
+Let’s collaborate and build secure, scalable, and innovative solutions!
 
 
 
