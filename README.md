@@ -26,6 +26,7 @@ Let’s collaborate and build secure, scalable, and innovative solutions!
 </details>
 
 <details>
+
 <summary>Backend & Web Development</summary>
 
 - Flask  
@@ -38,6 +39,7 @@ Let’s collaborate and build secure, scalable, and innovative solutions!
 </details>
 
 <details>
+
 <summary>Frontend & Styling</summary>
 
 - HTML5  
@@ -47,6 +49,7 @@ Let’s collaborate and build secure, scalable, and innovative solutions!
 </details>
 
 <details>
+
 <summary>Systems & Networking</summary>
 
 - Linux Basics  
@@ -57,6 +60,7 @@ Let’s collaborate and build secure, scalable, and innovative solutions!
 </details>
 
 <details>
+
 <summary>Security Tools & Concepts</summary>
 
 - Nmap  
@@ -68,6 +72,7 @@ Let’s collaborate and build secure, scalable, and innovative solutions!
 </details>
 
 <details>
+
 <summary>Automation & GUI</summary>
 
 - Tkinter  
@@ -79,6 +84,7 @@ Let’s collaborate and build secure, scalable, and innovative solutions!
 </details>
 
 <details>
+
 <summary>Data & Analysis</summary>
 
 - Pandas  
