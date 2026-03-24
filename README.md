@@ -1,7 +1,6 @@
 <h1>👋 Hi, I’m Timilehin Oyinlola!</h1>
 
 **Security-Focused Python Engineer | Transitioning into Cloud DevSecOps**  
-Lagos, Nigeria 🇳🇬  
 
 I build tools, web applications, and automation scripts using Python, Flask, and system-level programming to solve real-world problems. My projects include fuel price trackers, restaurant rating platforms, system info tools, movie API apps, and Python games.
 
